@@ -1,0 +1,6 @@
+{
+  "name": "Uzima SACCO",
+  "description": "Member-owned Savings and Credit Cooperative Organization in Kenya offering savings accounts, affordable 3x deposit loans, M-Pesa integration, and an online member self-service portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
